@@ -6490,15 +6490,14 @@ react-hot-loader@^4.0.0:
     prop-types "^15.6.0"
     shallowequal "^1.0.2"
 
-react-imported-component@^6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/react-imported-component/-/react-imported-component-6.1.0.tgz#8978f6f3a189178cacea71c47627ba413a59b46f"
-  integrity sha512-TXWWRGJzOLHWmGWrmY4kZ2lnO1RNKiEX864psMN4IHxLsQn30jwFHvvXwUwokWGIoTOjH9r+KR8FSBEHGm0J/g==
+react-imported-component@^6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/react-imported-component/-/react-imported-component-6.2.0.tgz#268dbb771a519cbd646bccff04750ccb5dda0bac"
+  integrity sha512-nUNp6e04mP6ShwFsZYKYipAHTbvjioS0pVlp0mztjiKmYyA0F7+t0EyqKSC54ze00hb7HIVUV/8hhUIqynOA2w==
   dependencies:
     crc-32 "^1.2.0"
     detect-node "^2.0.4"
     prop-types "^15.6.2"
-    react-uid "^2.2.0"
     scan-directory "^1.0.0"
     tslib "^1.10.0"
 
@@ -6534,11 +6533,6 @@ react-side-effect@^1.1.0:
   dependencies:
     exenv "^1.2.1"
     shallowequal "^1.0.1"
-
-react-uid@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/react-uid/-/react-uid-2.2.0.tgz#0f77e1e0594fbf29fc4fe528cc9aa415c5bf9159"
-  integrity sha512-z+g5+hFOQ08hCfrGcJ1PNs+cmvH8Uq2CVzCmPeWBsUi5A4W4NWXR5jouledzy3oSKGMU9HOzf8zFuGi15TXJoQ==
 
 react@^16.9.0:
   version "16.9.0"
