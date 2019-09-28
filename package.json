@@ -36,7 +36,7 @@
     "hmr"
   ],
   "peerDependencies": {
-    "react": "^16.8.0"
+    "react": "^16.10.1"
   },
   "author": "theKashey <thekashey@gmail.com>",
   "license": "MIT",
