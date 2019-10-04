@@ -32,7 +32,7 @@
     "multistream": "^3.0.0",
     "parcel-plugin-bundle-manifest": "^0.2.0",
     "react": "^16.10.2",
-    "react-dom": "^16.9.0",
+    "react-dom": "^16.10.2",
     "react-helmet": "^5.2.0",
     "react-imported-component": "^6.1.0",
     "react-router-dom": "^4.2.2",
